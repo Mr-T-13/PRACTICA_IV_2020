@@ -1,0 +1,1359 @@
+﻿Log file open, 01/11/21 13:35:17
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: PRACTICA_IV_2020
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.227233
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-14830424
+LogInit: Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Dec  1 2020 15:13:26
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=13Mr.T -epicuserid=7d4210718eb4441f9b15597d6d10ff3d -epiclocale=es
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.01.11-12.35.17:682][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.01.11-12.35.17:682][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.01.11-12.35.17:682][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Saved/Config/Windows/Engine.ini]
+[2021.01.11-12.35.17:682][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.01.11-12.35.17:682][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Saved/Config/Windows/Engine.ini]
+[2021.01.11-12.35.17:682][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Saved/Config/Windows/Engine.ini]
+[2021.01.11-12.35.17:682][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.01.11-12.35.17:682][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.01.11-12.35.17:682][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.01.11-12.35.17:682][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.01.11-12.35.17:682][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.01.11-12.35.17:682][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.01.11-12.35.17:682][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.01.11-12.35.17:682][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.01.11-12.35.17:682][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.01.11-12.35.17:682][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.01.11-12.35.17:682][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.01.11-12.35.17:682][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.01.11-12.35.17:682][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.01.11-12.35.17:682][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.01.11-12.35.17:682][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Saved/Config/Windows/Engine.ini]
+[2021.01.11-12.35.17:682][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.01.11-12.35.17:682][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.01.11-12.35.17:682][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.01.11-12.35.17:682][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.01.11-12.35.17:682][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.01.11-12.35.17:682][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.01.11-12.35.17:682][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.01.11-12.35.17:682][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.01.11-12.35.17:682][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.01.11-12.35.17:682][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.01.11-12.35.17:682][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.01.11-12.35.17:682][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.01.11-12.35.17:682][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.01.11-12.35.17:682][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.01.11-12.35.17:682][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Saved/Config/Windows/Engine.ini]
+[2021.01.11-12.35.17:682][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Saved/Config/Windows/Engine.ini]
+[2021.01.11-12.35.17:690][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-12.35.17:690][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.11-12.35.17:690][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.11-12.35.17:690][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-12.35.17:690][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.11-12.35.17:690][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-12.35.17:690][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.11-12.35.17:690][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.11-12.35.17:690][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.11-12.35.17:690][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.11-12.35.17:690][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.11-12.35.17:690][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.11-12.35.17:690][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.11-12.35.17:690][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.11-12.35.17:690][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.11-12.35.17:690][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.11-12.35.17:690][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.11-12.35.17:690][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.11-12.35.17:690][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.11-12.35.17:690][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.11-12.35.17:690][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.11-12.35.17:690][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.11-12.35.17:690][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.11-12.35.17:690][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.11-12.35.17:690][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-12.35.17:690][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.11-12.35.17:690][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.11-12.35.17:690][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.11-12.35.17:690][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.11-12.35.17:690][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.11-12.35.17:690][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.11-12.35.17:690][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.11-12.35.17:690][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.11-12.35.17:690][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.11-12.35.17:690][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.11-12.35.17:690][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.11-12.35.17:690][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.01.11-12.35.17:691][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.11-12.35.17:692][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.11-12.35.17:692][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.11-12.35.17:692][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.01.11-12.35.17:692][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.11-12.35.17:692][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.01.11-12.35.17:692][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.11-12.35.17:692][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.11-12.35.17:692][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.11-12.35.17:692][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-12.35.17:692][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.11-12.35.17:692][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.11-12.35.17:692][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-12.35.17:692][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.01.11-12.35.17:692][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.01.11-12.35.17:692][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.01.11-12.35.17:692][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.11-12.35.17:692][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.01.11-12.35.17:692][  0]LogHAL: Display: Platform has ~ 8 GB [8429518848 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.01.11-12.35.17:692][  0]LogInit: Going up to parent DeviceProfile []
+[2021.01.11-12.35.17:692][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-12.35.17:692][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.11-12.35.17:692][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.11-12.35.17:692][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-12.35.17:692][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.11-12.35.17:692][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-12.35.17:692][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.11-12.35.17:692][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.11-12.35.17:692][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.11-12.35.17:692][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.11-12.35.17:692][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.11-12.35.17:692][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.11-12.35.17:692][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.11-12.35.17:692][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.11-12.35.17:692][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.11-12.35.17:692][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.11-12.35.17:692][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.11-12.35.17:692][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.11-12.35.17:692][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.11-12.35.17:692][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.11-12.35.17:692][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.11-12.35.17:692][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.11-12.35.17:692][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.11-12.35.17:692][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.11-12.35.17:693][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.11-12.35.17:694][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.11-12.35.17:694][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.01.11-12.35.17:694][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.11-12.35.17:694][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.11-12.35.17:694][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.11-12.35.17:694][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.01.11-12.35.17:694][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.11-12.35.17:694][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.11-12.35.17:694][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.11-12.35.17:694][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.11-12.35.17:694][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.01.11-12.35.17:694][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.11-12.35.17:694][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.11-12.35.17:694][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.11-12.35.17:694][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.01.11-12.35.17:694][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.11-12.35.17:694][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.01.11-12.35.17:694][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.11-12.35.17:694][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.11-12.35.17:694][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.11-12.35.17:694][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-12.35.17:694][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.11-12.35.17:694][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.11-12.35.17:694][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-12.35.17:694][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.01.11-12.35.17:694][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.01.11-12.35.17:694][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.01.11-12.35.17:694][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.01.11-12.35.17:694][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.01.11-12.35.17:694][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.01.11-12.35.17:694][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.01.11-12.35.17:694][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Saved/Config/Windows/Engine.ini]
+[2021.01.11-12.35.17:694][  0]LogInit: Computer: DESKTOP-GPB8RSG
+[2021.01.11-12.35.17:695][  0]LogInit: User: adria
+[2021.01.11-12.35.17:695][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.01.11-12.35.17:695][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.01.11-12.35.17:695][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2021.01.11-12.35.17:695][  0]LogMemory: Platform Memory Stats for Windows
+[2021.01.11-12.35.17:695][  0]LogMemory: Process Physical Memory: 138.83 MB used, 138.83 MB peak
+[2021.01.11-12.35.17:695][  0]LogMemory: Process Virtual Memory: 112.18 MB used, 112.18 MB peak
+[2021.01.11-12.35.17:695][  0]LogMemory: Physical Memory: 5711.30 MB used,  2327.72 MB free, 8039.02 MB total
+[2021.01.11-12.35.17:695][  0]LogMemory: Virtual Memory: 134208920.00 MB used,  8804.03 MB free, 134217728.00 MB total
+[2021.01.11-12.35.17:734][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.01.11-12.35.17:783][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.01.11-12.35.17:784][  0]LogInit: Using OS detected language (es-ES).
+[2021.01.11-12.35.17:784][  0]LogInit: Using OS detected locale (es-ES).
+[2021.01.11-12.35.17:786][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so the 'es' localization will be used.
+[2021.01.11-12.35.17:816][  0]LogInit: Setting process to per monitor DPI aware
+[2021.01.11-12.35.17:830][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.01.11-12.35.17:853][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.01.11-12.35.17:853][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.01.11-12.35.18:083][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.11-12.35.18:083][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.01.11-12.35.18:083][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.01.11-12.35.18:083][  0]LogD3D11RHI: D3D11 adapters:
+[2021.01.11-12.35.18:199][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2021.01.11-12.35.18:199][  0]LogD3D11RHI:       4021/0/4019 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.01.11-12.35.18:228][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2021.01.11-12.35.18:228][  0]LogD3D11RHI:       128/0/4019 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.01.11-12.35.18:231][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.01.11-12.35.18:231][  0]LogD3D11RHI:       0/0/4019 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.01.11-12.35.18:231][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.01.11-12.35.18:237][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.01.11-12.35.18:237][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2021.01.11-12.35.18:237][  0]LogWindows: EnumDisplayDevices:
+[2021.01.11-12.35.18:237][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2021.01.11-12.35.18:238][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.01.11-12.35.18:238][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.01.11-12.35.18:238][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2021.01.11-12.35.18:238][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2021.01.11-12.35.18:238][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2021.01.11-12.35.18:238][  0]LogD3D11RHI:      Driver Date: Unknown
+[2021.01.11-12.35.18:238][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2021.01.11-12.35.18:321][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.01.11-12.35.18:321][  0]LogD3D11RHI: Async texture creation enabled
+[2021.01.11-12.35.18:321][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.01.11-12.35.18:345][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.01.11-12.35.18:346][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.01.11-12.35.18:665][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.01.11-12.35.18:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.01.11-12.35.18:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.01.11-12.35.18:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.01.11-12.35.18:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.01.11-12.35.18:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.01.11-12.35.18:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.01.11-12.35.18:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.01.11-12.35.18:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.01.11-12.35.18:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.01.11-12.35.18:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.01.11-12.35.18:707][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.01.11-12.35.18:707][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.01.11-12.35.18:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.01.11-12.35.18:724][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.01.11-12.35.18:733][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.01.11-12.35.18:741][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.01.11-12.35.18:750][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.01.11-12.35.18:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.01.11-12.35.18:767][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.01.11-12.35.18:788][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.01.11-12.35.18:788][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.01.11-12.35.18:796][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.01.11-12.35.18:803][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.01.11-12.35.18:811][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.01.11-12.35.18:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.01.11-12.35.18:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.01.11-12.35.18:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.01.11-12.35.18:841][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.01.11-12.35.18:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.01.11-12.35.18:857][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.01.11-12.35.18:864][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.01.11-12.35.18:864][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.01.11-12.35.18:871][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.01.11-12.35.18:931][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.01.11-12.35.18:931][  0]LogShaderCompilers: Guid format shader working directory is -57 characters bigger than the processId version (../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Intermediate/Shaders/WorkingDirectory/15464/).
+[2021.01.11-12.35.18:931][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/adria/AppData/Local/Temp/UnrealShaderWorkingDir/49E2E78B418D61CCC484D98717885802/'.
+[2021.01.11-12.35.18:931][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.01.11-12.35.18:931][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.01.11-12.35.19:628][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.01.11-12.35.19:687][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/adria/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.01.11-12.35.19:687][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/adria/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.01.11-12.35.19:687][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.01.11-12.35.19:688][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.01.11-12.35.19:688][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.11-12.35.19:688][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.01.11-12.35.19:698][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.01.11-12.35.19:699][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.11-12.35.19:699][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.01.11-12.35.19:704][  0]LogDerivedDataCache: Speed tests for C:/Users/adria/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.01.11-12.35.19:704][  0]LogDerivedDataCache: Display: Performance to C:/Users/adria/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=832.23MBs, RandomWriteSpeed=221.01MBs. Assigned SpeedClass 'Local'
+[2021.01.11-12.35.19:705][  0]LogDerivedDataCache: Using Local data cache path C:/Users/adria/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.01.11-12.35.19:705][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.01.11-12.35.19:705][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.01.11-12.35.19:748][  0]LogSlate: Using FreeType 2.10.0
+[2021.01.11-12.35.19:748][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.01.11-12.35.19:773][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2021.01.11-12.35.19:994][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.11-12.35.19:994][  0]LogInit: Active device profile: [000001FC23C86000][000001FC24C245C0 49] Windows
+[2021.01.11-12.35.19:994][  0]LogInit: Profiles: [000001FC23C86000][000001FC24C245C0 49] Windows, [000001FC23CB2100][000001FC24C32740 49] WindowsNoEditor, [000001FC23C87D00][000001FC24C3A8C0 49] WindowsServer, [000001FC23CB0500][000001FC24C42A40 49] WindowsClient, [000001FC23C84500][000001FC24C4CBC0 49] IOS, [000001FC23CB3900][000001FC19338D40 49] iPadAir, [000001FC23C86B00][000001FC1933CEC0 49] iPadAir2, [000001FC24F17800][000001FC198AD180 49] IPadPro, [000001FC24F17900][000001FC193411C0 49] iPadAir3, [000001FC23C85500][000001FC198B7340 49] iPadAir4, [000001FC24F16600][000001FC198BB4C0 49] iPadMini2, [000001FC23C87800][000001FC24C29600 49] iPadMini3, [000001FC24F14F00][000001FC198BF740 49] iPadMini4, [000001FC23C84900][000001FC198C3880 49] iPadMini5, [000001FC24F4F100][000001FC198CFB00 49] iPhone6, [000001FC24F4F200][000001FC198C7B40 49] iPodTouch6, [000001FC24F17700][000001FC198D6140 49] iPhone7, [000001FC24F17600][000001FC198D2180 49] iPodTouch7, [000001FC24F4E600][000001FC198DA300 49] iPhone5S, [000001FC24F15600][000001FC198DE480 49] iPhone6Plus, [000001FC24F4CE00][000001FC198E2600 49] iPhone6S, [000001FC24F14500][000001FC198E6780 49] iPhone6SPlus, [000001FC24F4ED00][000001FC198EA900 49] iPhone7Plus, [000001FC24F17A00][000001FC198EEA80 49] iPhoneSE, [000001FC24F4EF00][000001FC23514C00 49] iPhone8, [000001FC24F14900][000001FC23518D80 49] iPhone8Plus, [000001FC24F4E300][000001FC2351CF00 49] iPhoneX, [000001FC24F15800][000001FC23521080 49] iPhoneXS, [000001FC24F4C600][000001FC23525200 49] iPhoneXSMax, [000001FC24F16700][000001FC23529380 49] iPhoneXR, [000001FC24F4F700][000001FC2352D500 49] iPhone11, [000001FC24F17300][000001FC198CB640 49] iPhone11Pro, [000001FC24F4D400][000001FC23531780 49] iPhone11ProMax, [000001FC24F14D00][000001FC235358C0 49] iPhoneSE2, [000001FC24F4D900][000001FC23539A00 49] iPhone12Mini, [000001FC24F16400][000001FC23541B80 49] iPhone12, [000001FC24F4C500][000001FC23545D00 49] iPhone12Pro, [000001FC24F16F00][000001FC235481C0 49] iPhone12ProMax, [000001FC24F4E900][000001FC2354C340 49] iPadPro105, [000001FC24F16B00][000001FC235504C0 49] iPadPro129, [000001FC24F4EB00][000001FC23554640 49] iPadPro97, [000001FC24F4E500][000001FC235587C0 49] iPadPro2_129, [000001FC23CB3300][000001FC2355C940 49] iPad5, [000001FC24F4FD00][000001FC23560AC0 49] iPad6, [000001FC23CB2A00][000001FC23564C40 49] iPad7, [000001FC24F4D700][000001FC23568DC0 49] iPad8, [000001FC23CB0300][000001FC2356CF40 49] iPadPro11, [000001FC24F4DC00][000001FC2360D0C0 49] iPadPro2_11, [000001FC23CB3000][000001FC23611240 49] iPadPro3_129, [000001FC24F4E700][000001FC236153C0 49] iPadPro4_129, [000001FC23CB0800][000001FC23619540 49] AppleTV, [000001FC24F4D600][000001FC2361D6C0 49] AppleTV4K, [000001FC23CB0700][000001FC2353D800 49] TVOS, [000001FC24F4F000][000001FC23621940 49] Mac, [000001FC23CB0E00][000001FC23625A80 49] MacClient, [000001FC24F15200][000001FC2362DC00 49] MacNoEditor, [000001FC23CB2800][000001FC236300C0 49] MacServer, [000001FC24F15400][000001FC23634240 49] Linux, [000001FC23CB1300][000001FC236383C0 49] LinuxNoEditor, [000001FC24F16500][000001FC2363C540 49] LinuxAArch64NoEditor, [000001FC23CB2300][000001FC236406C0 49] LinuxClient, [000001FC24F16200][000001FC23644840 49] LinuxAArch64Client, [000001FC23CB2600][000001FC236489C0 49] LinuxServer, [000001FC24F15700][000001FC2364CB40 49] LinuxAArch64Server, [000001FC23CB2B00][000001FC23650CC0 49] Android, [000001FC24F17E00][000001FC23654E40 49] Android_Low, [000001FC23CB1900][000001FC23658FC0 49] Android_Mid, [000001FC24F15A00][000001FC2365D140 49] Android_High, [000001FC23CB3C00][000001FC236612C0 49] Android_Default, [000001FC24F15B00][000001FC23665440 49] Android_Adreno4xx, [000001FC23CB3800][000001FC236695C0 49] Android_Adreno5xx_Low, [000001FC24F15D00][000001FC2366D740 49] Android_Adreno5xx, [000001FC23CB1D00][000001FC23629880 49] Android_Adreno6xx, [000001FC24F14B00][000001FC236719C0 49] Android_Adreno6xx_Vulkan, [000001FC23CB1600][000001FC23675B00 49] Android_Mali_T6xx, [000001FC24F17000][000001FC24851C40 49] Android_Mali_T7xx, [000001FC23CB3E00][000001FC24858100 49] Android_Mali_T8xx, [000001FC24F14400][000001FC2485C280 49] Android_Mali_G71, [000001FC23CB1400][000001FC24860400 49] Android_Mali_G72, [000001FC24F15500][000001FC24864580 49] Android_Mali_G72_Vulkan, [000001FC23CB2C00][000001FC24868700 49] Android_Mali_G76, [000001FC24F15000][000001FC2486C880 49] Android_Mali_G76_Vulkan, [000001FC23CB1800][000001FC24870A00 49] Android_Mali_G77, [000001FC24F16100][000001FC24874B80 49] Android_Mali_G77_Vulkan, [000001FC23CB2000][000001FC24878D00 49] Android_Vulkan_SM5, [000001FC24F17B00][000001FC2487CE80 49] Android_PowerVR_G6xxx, [000001FC23CB0100][000001FC24881000 49] Android_PowerVR_GT7xxx, [000001FC24F14100][000001FC24885180 49] Android_PowerVR_GE8xxx, [000001FC23CB1200][000001FC24889300 49] Android_PowerVR_GM9xxx, [000001FC24F15300][000001FC2488D480 49] Android_PowerVR_GM9xxx_Vulkan, [000001FC23CB3400][000001FC24891600 49] Android_TegraK1, [000001FC24F17200][000001FC24895780 49] Android_Unknown_Vulkan, [000001FC23CB0600][000001FC248558C0 49] Lumin, [000001FC24F16C00][000001FC24899A00 49] Lumin_Desktop, [000001FC23CB0D00][000001FC2489DB40 49] HoloLens, 
+[2021.01.11-12.35.20:035][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.01.11-12.35.20:035][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.01.11-12.35.20:035][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.01.11-12.35.20:035][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.01.11-12.35.20:035][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.01.11-12.35.20:115][  0]LogNetVersion: PRACTICA_IV_2020 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3337357925)
+[2021.01.11-12.35.20:508][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.01.11-12.35.20:541][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.032309 seconds
+[2021.01.11-12.35.20:545][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.01.11-12.35.20:545][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.01.11-12.35.20:546][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.01.11-12.35.20:871][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.01.11-12.35.20:882][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.01.11-12.35.20:965][  0]SourceControl: El control de código fuente está desactivado
+[2021.01.11-12.35.20:965][  0]SourceControl: El control de código fuente está desactivado
+[2021.01.11-12.35.20:968][  0]SourceControl: El control de código fuente está desactivado
+[2021.01.11-12.35.20:971][  0]SourceControl: El control de código fuente está desactivado
+[2021.01.11-12.35.20:983][  0]SourceControl: El control de código fuente está desactivado
+[2021.01.11-12.35.20:986][  0]LogUProjectInfo: Found projects:
+[2021.01.11-12.35.21:093][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.01.11-12.35.21:111][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.11-12.35.21:111][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.11-12.35.21:257][  0]LogCollectionManager: Loaded 0 collections in 0.000575 seconds
+[2021.01.11-12.35.21:278][  0]LogFileCache: Scanning file cache for directory 'D:/Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Saved/Collections/' took 0.00s
+[2021.01.11-12.35.21:278][  0]LogFileCache: Scanning file cache for directory 'D:/Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/Developers/adria/Collections/' took 0.00s
+[2021.01.11-12.35.21:278][  0]LogFileCache: Scanning file cache for directory 'D:/Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/Collections/' took 0.00s
+[2021.01.11-12.35.21:278][  0]LogOcInput: OculusInput pre-init called
+[2021.01.11-12.35.21:287][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.01.11-12.35.21:287][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.01.11-12.35.21:329][  0]LogEngine: Initializing Engine...
+[2021.01.11-12.35.21:332][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.11-12.35.21:332][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.01.11-12.35.21:333][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.01.11-12.35.21:440][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.01.11-12.35.21:448][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.01.11-12.35.21:467][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.01.11-12.35.21:470][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.01.11-12.35.21:470][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.01.11-12.35.21:471][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.11-12.35.21:471][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.11-12.35.21:471][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.11-12.35.21:471][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.11-12.35.21:471][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.11-12.35.21:471][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.11-12.35.21:471][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.11-12.35.21:471][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.11-12.35.21:471][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.11-12.35.21:471][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.11-12.35.21:553][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.11-12.35.21:553][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.01.11-12.35.21:553][  0]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.11-12.35.21:553][  0]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.11-12.35.21:553][  0]LogAudioMixer: Display: 4: BackLeft
+[2021.01.11-12.35.21:553][  0]LogAudioMixer: Display: 5: BackRight
+[2021.01.11-12.35.21:553][  0]LogAudioMixer: Display: 6: SideLeft
+[2021.01.11-12.35.21:553][  0]LogAudioMixer: Display: 7: SideRight
+[2021.01.11-12.35.21:781][  0]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.01.11-12.35.21:786][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.11-12.35.21:788][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.11-12.35.21:788][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.11-12.35.21:789][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.11-12.35.21:789][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.11-12.35.21:789][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.01.11-12.35.21:790][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.11-12.35.21:790][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.11-12.35.21:790][  0]LogInit: FAudioDevice initialized.
+[2021.01.11-12.35.21:790][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.01.11-12.35.21:790][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.01.11-12.35.21:875][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/adria/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.01.11-12.35.21:875][  0]LogInit: Texture streaming: Enabled
+[2021.01.11-12.35.21:886][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.0-14830424+++UE4+Release-4.26
+[2021.01.11-12.35.21:893][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.01.11-12.35.21:893][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.01.11-12.35.21:904][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.01.11-12.35.21:918][  0]LogInit: Transaction tracking system initialized
+[2021.01.11-12.35.21:937][  0]BlueprintLog: New page: Cargar el editor
+[2021.01.11-12.35.22:019][  0]LocalizationService: Localization service is disabled
+[2021.01.11-12.35.22:041][  0]TimingProfiler: Initialize
+[2021.01.11-12.35.22:041][  0]TimingProfiler: OnSessionChanged
+[2021.01.11-12.35.22:041][  0]LoadingProfiler: Initialize
+[2021.01.11-12.35.22:041][  0]LoadingProfiler: OnSessionChanged
+[2021.01.11-12.35.22:041][  0]NetworkingProfiler: Initialize
+[2021.01.11-12.35.22:041][  0]NetworkingProfiler: OnSessionChanged
+[2021.01.11-12.35.22:041][  0]MemoryProfiler: Initialize
+[2021.01.11-12.35.22:041][  0]MemoryProfiler: OnSessionChanged
+[2021.01.11-12.35.22:174][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.01.11-12.35.22:174][  0]LogCook: Display: Mobile HDR setting 1
+[2021.01.11-12.35.22:317][  0]LogFileCache: Scanning file cache for directory 'D:/Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/' took 0.00s
+[2021.01.11-12.35.22:498][  0]SourceControl: El control de código fuente está desactivado
+[2021.01.11-12.35.22:498][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.747
+[2021.01.11-12.35.22:504][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/Program Files/Epic Games/UE_4.26/FeaturePacks/StarterContent.upack)
+[2021.01.11-12.35.22:504][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.11-12.35.22:504][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.11-12.35.22:504][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.11-12.35.22:510][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2021.01.11-12.35.22:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2021.01.11-12.35.22:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2021.01.11-12.35.22:515][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2021.01.11-12.35.22:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2021.01.11-12.35.22:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2021.01.11-12.35.22:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2021.01.11-12.35.22:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2021.01.11-12.35.22:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2021.01.11-12.35.22:525][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2021.01.11-12.35.22:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2021.01.11-12.35.22:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2021.01.11-12.35.22:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Audio/Collapse01.uasset"
+[2021.01.11-12.35.22:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Audio/Collapse02.uasset"
+[2021.01.11-12.35.22:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2021.01.11-12.35.22:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Audio/Explosion01.uasset"
+[2021.01.11-12.35.22:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Audio/Explosion02.uasset"
+[2021.01.11-12.35.22:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2021.01.11-12.35.22:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Audio/Fire01.uasset"
+[2021.01.11-12.35.22:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2021.01.11-12.35.22:551][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2021.01.11-12.35.22:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2021.01.11-12.35.22:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Audio/Light01.uasset"
+[2021.01.11-12.35.22:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2021.01.11-12.35.22:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Audio/Light02.uasset"
+[2021.01.11-12.35.22:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2021.01.11-12.35.22:561][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Audio/Smoke01.uasset"
+[2021.01.11-12.35.22:562][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2021.01.11-12.35.22:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2021.01.11-12.35.22:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2021.01.11-12.35.22:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2021.01.11-12.35.22:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2021.01.11-12.35.22:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2021.01.11-12.35.22:609][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2021.01.11-12.35.22:616][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Audio/Steam01.uasset"
+[2021.01.11-12.35.22:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2021.01.11-12.35.22:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2021.01.11-12.35.22:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2021.01.11-12.35.22:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2021.01.11-12.35.22:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2021.01.11-12.35.22:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2021.01.11-12.35.22:623][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2021.01.11-12.35.22:624][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2021.01.11-12.35.22:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2021.01.11-12.35.22:630][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2021.01.11-12.35.22:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2021.01.11-12.35.22:632][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2021.01.11-12.35.22:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2021.01.11-12.35.22:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2021.01.11-12.35.22:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2021.01.11-12.35.22:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2021.01.11-12.35.22:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2021.01.11-12.35.22:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2021.01.11-12.35.22:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2021.01.11-12.35.22:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2021.01.11-12.35.22:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Maps/Minimal_Default.umap"
+[2021.01.11-12.35.22:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2021.01.11-12.35.22:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Maps/StarterMap.umap"
+[2021.01.11-12.35.22:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2021.01.11-12.35.22:917][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2021.01.11-12.35.22:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2021.01.11-12.35.22:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2021.01.11-12.35.22:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2021.01.11-12.35.22:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2021.01.11-12.35.22:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2021.01.11-12.35.22:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2021.01.11-12.35.22:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2021.01.11-12.35.22:927][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2021.01.11-12.35.22:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2021.01.11-12.35.22:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2021.01.11-12.35.22:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2021.01.11-12.35.22:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2021.01.11-12.35.22:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2021.01.11-12.35.22:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2021.01.11-12.35.22:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2021.01.11-12.35.22:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2021.01.11-12.35.22:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_Glass.uasset"
+[2021.01.11-12.35.22:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2021.01.11-12.35.22:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2021.01.11-12.35.22:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2021.01.11-12.35.22:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2021.01.11-12.35.22:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2021.01.11-12.35.22:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2021.01.11-12.35.22:952][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2021.01.11-12.35.22:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2021.01.11-12.35.22:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2021.01.11-12.35.22:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2021.01.11-12.35.22:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2021.01.11-12.35.22:960][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2021.01.11-12.35.22:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2021.01.11-12.35.22:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2021.01.11-12.35.22:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2021.01.11-12.35.22:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2021.01.11-12.35.22:966][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2021.01.11-12.35.22:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2021.01.11-12.35.22:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2021.01.11-12.35.22:970][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2021.01.11-12.35.22:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2021.01.11-12.35.22:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2021.01.11-12.35.22:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2021.01.11-12.35.22:975][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2021.01.11-12.35.22:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2021.01.11-12.35.22:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2021.01.11-12.35.22:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Particles/P_Explosion.uasset"
+[2021.01.11-12.35.22:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Particles/P_Fire.uasset"
+[2021.01.11-12.35.22:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Particles/P_Smoke.uasset"
+[2021.01.11-12.35.22:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Particles/P_Sparks.uasset"
+[2021.01.11-12.35.22:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2021.01.11-12.35.22:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2021.01.11-12.35.22:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2021.01.11-12.35.22:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2021.01.11-12.35.22:990][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2021.01.11-12.35.22:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2021.01.11-12.35.22:993][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2021.01.11-12.35.22:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2021.01.11-12.35.22:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2021.01.11-12.35.22:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2021.01.11-12.35.22:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2021.01.11-12.35.22:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Props/MaterialSphere.uasset"
+[2021.01.11-12.35.23:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Props/SM_Bush.uasset"
+[2021.01.11-12.35.23:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Props/SM_Chair.uasset"
+[2021.01.11-12.35.23:003][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2021.01.11-12.35.23:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Props/SM_Couch.uasset"
+[2021.01.11-12.35.23:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Props/SM_Door.uasset"
+[2021.01.11-12.35.23:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2021.01.11-12.35.23:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2021.01.11-12.35.23:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2021.01.11-12.35.23:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2021.01.11-12.35.23:021][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2021.01.11-12.35.23:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2021.01.11-12.35.23:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2021.01.11-12.35.23:025][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Props/SM_Rock.uasset"
+[2021.01.11-12.35.23:027][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Props/SM_Shelf.uasset"
+[2021.01.11-12.35.23:027][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Props/SM_Stairs.uasset"
+[2021.01.11-12.35.23:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Props/SM_Statue.uasset"
+[2021.01.11-12.35.23:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Props/SM_TableRound.uasset"
+[2021.01.11-12.35.23:035][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2021.01.11-12.35.23:036][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2021.01.11-12.35.23:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2021.01.11-12.35.23:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2021.01.11-12.35.23:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2021.01.11-12.35.23:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2021.01.11-12.35.23:042][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2021.01.11-12.35.23:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2021.01.11-12.35.23:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2021.01.11-12.35.23:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2021.01.11-12.35.23:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2021.01.11-12.35.23:048][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2021.01.11-12.35.23:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2021.01.11-12.35.23:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2021.01.11-12.35.23:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2021.01.11-12.35.23:054][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2021.01.11-12.35.23:055][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2021.01.11-12.35.23:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2021.01.11-12.35.23:058][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2021.01.11-12.35.23:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2021.01.11-12.35.23:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2021.01.11-12.35.23:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2021.01.11-12.35.23:064][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2021.01.11-12.35.23:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2021.01.11-12.35.23:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2021.01.11-12.35.23:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2021.01.11-12.35.23:070][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2021.01.11-12.35.23:071][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2021.01.11-12.35.23:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2021.01.11-12.35.23:074][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2021.01.11-12.35.23:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2021.01.11-12.35.23:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2021.01.11-12.35.23:101][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2021.01.11-12.35.23:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2021.01.11-12.35.23:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2021.01.11-12.35.23:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2021.01.11-12.35.23:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2021.01.11-12.35.23:226][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2021.01.11-12.35.23:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2021.01.11-12.35.23:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2021.01.11-12.35.23:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2021.01.11-12.35.23:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2021.01.11-12.35.23:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2021.01.11-12.35.23:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2021.01.11-12.35.23:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2021.01.11-12.35.23:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2021.01.11-12.35.24:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2021.01.11-12.35.24:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2021.01.11-12.35.24:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2021.01.11-12.35.24:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2021.01.11-12.35.24:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2021.01.11-12.35.24:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2021.01.11-12.35.24:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2021.01.11-12.35.24:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2021.01.11-12.35.24:316][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2021.01.11-12.35.24:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2021.01.11-12.35.24:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2021.01.11-12.35.24:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2021.01.11-12.35.24:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2021.01.11-12.35.24:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2021.01.11-12.35.24:449][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2021.01.11-12.35.24:482][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2021.01.11-12.35.24:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2021.01.11-12.35.24:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2021.01.11-12.35.24:565][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2021.01.11-12.35.24:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2021.01.11-12.35.24:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2021.01.11-12.35.24:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2021.01.11-12.35.24:664][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2021.01.11-12.35.24:666][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2021.01.11-12.35.24:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2021.01.11-12.35.24:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Door_M.uasset"
+[2021.01.11-12.35.24:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Door_N.uasset"
+[2021.01.11-12.35.24:696][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2021.01.11-12.35.24:710][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2021.01.11-12.35.24:716][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2021.01.11-12.35.24:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2021.01.11-12.35.24:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2021.01.11-12.35.24:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2021.01.11-12.35.24:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2021.01.11-12.35.24:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2021.01.11-12.35.24:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2021.01.11-12.35.24:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2021.01.11-12.35.25:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2021.01.11-12.35.25:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2021.01.11-12.35.25:086][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2021.01.11-12.35.25:090][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2021.01.11-12.35.25:099][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2021.01.11-12.35.25:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2021.01.11-12.35.25:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2021.01.11-12.35.25:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2021.01.11-12.35.25:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2021.01.11-12.35.25:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2021.01.11-12.35.25:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2021.01.11-12.35.25:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2021.01.11-12.35.25:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2021.01.11-12.35.25:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2021.01.11-12.35.25:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2021.01.11-12.35.25:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2021.01.11-12.35.25:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2021.01.11-12.35.25:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2021.01.11-12.35.25:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2021.01.11-12.35.25:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2021.01.11-12.35.25:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2021.01.11-12.35.25:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2021.01.11-12.35.25:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2021.01.11-12.35.25:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2021.01.11-12.35.25:609][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2021.01.11-12.35.25:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2021.01.11-12.35.25:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2021.01.11-12.35.25:623][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2021.01.11-12.35.25:632][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2021.01.11-12.35.25:634][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2021.01.11-12.35.25:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2021.01.11-12.35.25:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2021.01.11-12.35.25:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2021.01.11-12.35.25:647][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2021.01.11-12.35.25:653][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2021.01.11-12.35.25:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2021.01.11-12.35.25:656][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2021.01.11-12.35.25:660][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2021.01.11-12.35.25:664][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2021.01.11-12.35.25:669][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2021.01.11-12.35.25:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2021.01.11-12.35.25:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Water_M.uasset"
+[2021.01.11-12.35.25:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Water_N.uasset"
+[2021.01.11-12.35.25:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2021.01.11-12.35.25:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2021.01.11-12.35.25:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2021.01.11-12.35.25:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2021.01.11-12.35.25:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2021.01.11-12.35.25:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2021.01.11-12.35.25:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2021.01.11-12.35.25:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2021.01.11-12.35.25:966][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2021.01.11-12.35.25:982][  0]LogStaticMesh: Generando la malla estática Floor_400x400...
+[2021.01.11-12.35.25:991][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.01.11-12.35.26:079][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2021.01.11-12.35.26:988][  0]LogSavePackage: Moving '../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Saved/Floor_400x4003C0D6A964C1928312593709FC999C8EB.tmp' to '../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2021.01.11-12.35.26:993][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2021.01.11-12.35.26:995][  0]LightingResults: New page: Diseñar la iluminación
+[2021.01.11-12.35.26:996][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.01.11-12.35.26:996][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.11-12.35.26:997][  0]MapCheck: New page: Revisión del mapa
+[2021.01.11-12.35.26:997][  0]LightingResults: New page: Diseñar la iluminación
+[2021.01.11-12.35.27:012][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.01.11-12.35.27:347][  0]LogTexture: Display: Building textures: DeprecatedTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2021.01.11-12.35.27:425][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.01.11-12.35.27:426][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.01.11-12.35.27:458][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.11-12.35.27:464][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.01.11-12.35.27:466][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.11-12.35.27:467][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,102ms to complete.
+[2021.01.11-12.35.27:467][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.472
+[2021.01.11-12.35.27:468][  0]LogUnrealEdMisc: Total Editor Startup Time, took 10.717
+[2021.01.11-12.35.27:717][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-12.35.27:724][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-12.35.27:730][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-12.35.27:735][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-12.35.27:791][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0098 seconds. Added 3601 classes and 859 folders.
+[2021.01.11-12.35.27:805][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.01.11-12.35.27:806][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.01.11-12.35.27:807][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.11-12.35.27:807][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.11-12.35.27:807][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.01.11-12.35.27:807][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.01.11-12.35.27:807][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.11-12.35.27:807][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.01.11-12.35.27:807][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.01.11-12.35.27:808][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.01.11-12.35.27:808][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.11-12.35.27:808][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.01.11-12.35.27:808][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.01.11-12.35.27:808][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.11-12.35.27:808][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.11-12.35.27:808][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.11-12.35.27:808][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.01.11-12.35.27:809][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.01.11-12.35.27:809][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.11-12.35.27:809][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.01.11-12.35.27:809][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.01.11-12.35.27:809][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.01.11-12.35.27:809][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.11-12.35.27:809][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.01.11-12.35.27:810][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.01.11-12.35.27:810][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.01.11-12.35.27:810][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.11-12.35.27:810][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.01.11-12.35.27:810][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.01.11-12.35.27:811][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.01.11-12.35.27:811][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.11-12.35.27:811][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.01.11-12.35.27:811][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.01.11-12.35.27:811][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.01.11-12.35.27:811][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.11-12.35.27:811][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.01.11-12.35.27:811][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.01.11-12.35.27:812][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.01.11-12.35.27:812][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.11-12.35.27:812][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.01.11-12.35.27:812][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.01.11-12.35.27:812][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.01.11-12.35.27:812][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.11-12.35.27:812][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.01.11-12.35.27:812][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.01.11-12.35.27:813][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.01.11-12.35.27:813][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.11-12.35.27:813][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.01.11-12.35.27:813][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.01.11-12.35.27:813][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.11-12.35.27:813][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.11-12.35.27:814][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.11-12.35.27:814][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.01.11-12.35.27:814][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.01.11-12.35.27:814][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.11-12.35.27:814][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.01.11-12.35.27:814][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.01.11-12.35.27:815][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.01.11-12.35.27:815][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.11-12.35.27:815][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.01.11-12.35.27:815][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.01.11-12.35.27:815][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.01.11-12.35.27:815][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.11-12.35.27:815][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.11-12.35.27:815][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.01.11-12.35.27:816][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.01.11-12.35.27:816][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.11-12.35.27:816][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.01.11-12.35.27:816][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.01.11-12.35.27:816][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.01.11-12.35.27:816][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.11-12.35.27:816][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.01.11-12.35.27:816][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.01.11-12.35.27:817][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.11-12.35.27:817][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.11-12.35.27:817][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.11-12.35.27:817][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.01.11-12.35.27:817][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.11-12.35.27:817][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.11-12.35.27:817][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.11-12.35.27:818][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.01.11-12.35.27:818][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.01.11-12.35.27:818][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.11-12.35.27:818][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.11-12.35.27:818][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.01.11-12.35.27:819][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.01.11-12.35.27:819][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.11-12.35.27:819][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.01.11-12.35.27:819][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.01.11-12.35.27:819][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.01.11-12.35.27:819][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.11-12.35.27:819][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.01.11-12.35.27:819][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.01.11-12.35.27:820][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.01.11-12.35.27:820][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.11-12.35.27:820][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.01.11-12.35.27:820][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.01.11-12.35.27:821][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.11-12.35.27:821][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.11-12.35.27:821][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.11-12.35.27:821][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.01.11-12.35.27:821][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.01.11-12.35.27:821][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.11-12.35.27:821][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.01.11-12.35.27:821][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.01.11-12.35.27:863][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.01.11-12.35.27:871][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.01.11-12.35.28:107][  0]LogSlate: Took 0.000565 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.01.11-12.35.28:113][  0]LogSlate: Took 0.000568 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.01.11-12.35.28:133][  0]LogSlate: Took 0.001553 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.01.11-12.35.28:286][  0]LogRenderer: Reallocating scene render targets to support 964x432 Format 10 NumSamples 1 (Frame:1).
+[2021.01.11-12.35.28:367][  0]LogSlate: Took 0.000312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.11-12.35.28:454][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.01.11-12.35.28:454][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.01.11-12.35.28:454][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.01.11-12.35.28:454][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.01.11-12.35.28:454][  0]LogLoad: (Engine Initialization) Total time: 11.70 seconds
+[2021.01.11-12.35.28:454][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.01.11-12.35.28:454][  0]LogInit: First time updating LLM stats...
+[2021.01.11-12.35.28:588][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2021.01.11-12.35.28:588][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.01.11-12.35.28:637][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.01.11-12.35.28:713][  1]LogAssetRegistry: Asset discovery search completed in 8.9411 seconds
+[2021.01.11-12.35.28:714][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2021.01.11-12.35.33:247][261]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.11-12.35.33:259][261]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.11-12.35.33:266][261]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (11 ene. 2021 14:35:33)
+[2021.01.11-12.35.33:268][261]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.01.11-12.35.33:270][261]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.01.11-12.35.33:271][261]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.11-12.35.33:292][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021153s)
+[2021.01.11-12.35.33:293][261]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.01.11-12.35.33:294][261]LogPlayLevel: PIE: World Init took: (0.001908s)
+[2021.01.11-12.35.33:295][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023968s)
+[2021.01.11-12.35.33:301][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.01.11-12.35.33:303][261]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.01.11-12.35.33:303][261]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.11-12.35.33:303][261]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.11-12.35.33:303][261]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.11-12.35.33:303][261]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.11-12.35.33:303][261]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.11-12.35.33:303][261]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.11-12.35.33:303][261]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.11-12.35.33:303][261]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.11-12.35.33:304][261]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.11-12.35.33:304][261]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.11-12.35.33:306][261]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.11-12.35.33:306][261]LogAudioMixer: Display: 1: FrontRight
+[2021.01.11-12.35.33:306][261]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.11-12.35.33:306][261]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.11-12.35.33:306][261]LogAudioMixer: Display: 4: BackLeft
+[2021.01.11-12.35.33:306][261]LogAudioMixer: Display: 5: BackRight
+[2021.01.11-12.35.33:306][261]LogAudioMixer: Display: 6: SideLeft
+[2021.01.11-12.35.33:307][261]LogAudioMixer: Display: 7: SideRight
+[2021.01.11-12.35.33:347][261]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.01.11-12.35.33:348][261]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.11-12.35.33:348][261]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.11-12.35.33:348][261]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.11-12.35.33:348][261]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.11-12.35.33:348][261]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.11-12.35.33:348][261]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.01.11-12.35.33:365][261]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.11-12.35.33:365][261]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.11-12.35.33:365][261]LogInit: FAudioDevice initialized.
+[2021.01.11-12.35.33:365][261]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2021.01.11-12.35.33:384][261]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.01.11-12.35.33:397][261]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.01.11-13.35.33
+[2021.01.11-12.35.33:399][261]LogWorld: Bringing up level for play took: 0.005460
+[2021.01.11-12.35.33:402][261]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.01.11-12.35.33:439][261]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2021.01.11-12.35.33:445][261]PIE: El servidor ha iniciado la sesión
+[2021.01.11-12.35.33:450][261]PIE: Play in editor total start time 0,2 seconds.
+[2021.01.11-12.35.54:606][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-12.35.54:606][469]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.11-12.35.54:608][469]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.11-12.35.54:612][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.11-12.35.54:627][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.11-12.35.54:629][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.11-12.35.54:637][469]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.11-12.35.54:637][469]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.11-12.35.54:637][469]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.11-12.35.54:680][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-12.35.54:682][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.01.11-12.35.54:694][470]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.01.11-12.36.06:356][157]LogEditorViewport: Clicking on Actor (LMB): DocumentationActor (DocumentationActor1)
+[2021.01.11-12.36.14:003][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.11-12.36.17:443][807]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2021.01.11-12.36.26:894][369]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.11-12.36.26:922][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.11-12.36.26:945][369]LogSavePackage: Moving '../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Saved/ThirdPersonExampleMap365A5719419BADA4D90428AA5B12471F.tmp' to '../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.11-12.36.27:057][369]LogSavePackage: Moving '../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Saved/ThirdPersonExampleMap_BuiltData2B95B5044A9AF8FB246CB29D87B7D216.tmp' to '../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.11-12.36.27:071][369]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.11-12.36.27:071][369]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.01.11-12.36.27:071][369]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.01.11-12.36.35:521][843]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap
+[2021.01.11-12.36.35:801][843]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.01.11-12.36.36:693][843]LogSlate: Took 0.001625 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.01.11-12.36.57:017][966]LogSlate: Window 'ThirdPersonExampleMap' being destroyed
+[2021.01.11-12.36.57:030][966]LogSlate: Window 'ThirdPersonExampleMap' being destroyed
+[2021.01.11-12.36.57:060][966]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.01.11-12.36.57:060][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.11-12.37.02:468][288]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2021.01.11-12.37.06:618][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2021.01.11-12.37.07:486][587]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2021.01.11-12.37.08:740][661]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2021.01.11-12.37.14:770][ 22]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2021.01.11-12.37.15:269][ 51]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2021.01.11-12.37.19:632][309]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.11-12.37.19:639][309]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.11-12.37.19:640][309]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (11 ene. 2021 14:37:19)
+[2021.01.11-12.37.19:640][309]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.11-12.37.19:657][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017402s)
+[2021.01.11-12.37.19:659][309]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.01.11-12.37.19:660][309]LogPlayLevel: PIE: World Init took: (0.002635s)
+[2021.01.11-12.37.19:660][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.020300s)
+[2021.01.11-12.37.19:689][309]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.01.11-12.37.19:692][309]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.01.11-12.37.19:692][309]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.11-12.37.19:692][309]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.11-12.37.19:692][309]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.11-12.37.19:692][309]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.11-12.37.19:692][309]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.11-12.37.19:693][309]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.11-12.37.19:693][309]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.11-12.37.19:693][309]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.11-12.37.19:693][309]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.11-12.37.19:693][309]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.11-12.37.19:695][309]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.11-12.37.19:695][309]LogAudioMixer: Display: 1: FrontRight
+[2021.01.11-12.37.19:695][309]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.11-12.37.19:695][309]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.11-12.37.19:695][309]LogAudioMixer: Display: 4: BackLeft
+[2021.01.11-12.37.19:695][309]LogAudioMixer: Display: 5: BackRight
+[2021.01.11-12.37.19:695][309]LogAudioMixer: Display: 6: SideLeft
+[2021.01.11-12.37.19:695][309]LogAudioMixer: Display: 7: SideRight
+[2021.01.11-12.37.19:739][309]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.01.11-12.37.19:739][309]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.11-12.37.19:739][309]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.11-12.37.19:739][309]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.11-12.37.19:740][309]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.11-12.37.19:740][309]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.11-12.37.19:740][309]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.01.11-12.37.19:755][309]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.11-12.37.19:755][309]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.11-12.37.19:755][309]LogInit: FAudioDevice initialized.
+[2021.01.11-12.37.19:755][309]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2021.01.11-12.37.19:764][309]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.01.11-12.37.19:765][309]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.01.11-13.37.19
+[2021.01.11-12.37.19:765][309]LogWorld: Bringing up level for play took: 0.001262
+[2021.01.11-12.37.19:765][309]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.01.11-12.37.19:767][309]PIE: El servidor ha iniciado la sesión
+[2021.01.11-12.37.19:768][309]PIE: Play in editor total start time 0,134 seconds.
+[2021.01.11-12.37.25:158][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-12.37.25:158][628]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.11-12.37.25:158][628]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.11-12.37.25:159][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.11-12.37.25:166][628]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.11-12.37.25:177][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.11-12.37.25:192][628]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.11-12.37.25:192][628]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.11-12.37.25:193][628]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.11-12.37.25:235][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-12.37.25:238][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.01.11-12.37.25:259][629]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.01.11-12.37.38:282][410]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.11-12.37.39:904][506]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.11-12.37.42:528][658]LogRenderer: Reallocating scene render targets to support 964x476 Format 10 NumSamples 1 (Frame:6321).
+[2021.01.11-12.37.42:598][659]LogRenderer: Reallocating scene render targets to support 964x504 Format 10 NumSamples 1 (Frame:6323).
+[2021.01.11-12.37.42:664][660]LogRenderer: Reallocating scene render targets to support 964x536 Format 10 NumSamples 1 (Frame:6325).
+[2021.01.11-12.37.42:753][661]LogRenderer: Reallocating scene render targets to support 964x560 Format 10 NumSamples 1 (Frame:6327).
+[2021.01.11-12.37.42:819][662]LogRenderer: Reallocating scene render targets to support 964x592 Format 10 NumSamples 1 (Frame:6329).
+[2021.01.11-12.37.42:884][663]LogRenderer: Reallocating scene render targets to support 964x612 Format 10 NumSamples 1 (Frame:6331).
+[2021.01.11-12.37.42:950][664]LogRenderer: Reallocating scene render targets to support 964x628 Format 10 NumSamples 1 (Frame:6333).
+[2021.01.11-12.37.53:146][246]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2021.01.11-12.38.00:832][702]LogEditorViewport: Clicking on Actor (context menu): Actor (Actor)
+[2021.01.11-12.38.14:403][454]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.11-12.38.15:909][543]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2021.01.11-12.38.25:037][ 90]Cmd: DELETE
+[2021.01.11-12.38.25:038][ 90]Cmd: ACTOR DELETE
+[2021.01.11-12.38.25:063][ 90]LogEditorActor: Deleted Actor: Actor
+[2021.01.11-12.38.25:082][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2021.01.11-12.38.25:087][ 90]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2021.01.11-12.39.58:231][754]Cmd: DELETE
+[2021.01.11-12.39.58:231][754]Cmd: ACTOR DELETE
+[2021.01.11-12.39.58:232][754]LogEditorActor: Deleted Actor: Actor
+[2021.01.11-12.39.58:250][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.01.11-12.39.58:252][754]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2021.01.11-12.40.15:904][805]Cmd: DELETE
+[2021.01.11-12.40.15:904][805]Cmd: ACTOR DELETE
+[2021.01.11-12.40.15:908][805]LogEditorActor: Deleted Actor: DocumentationActor
+[2021.01.11-12.40.15:926][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.01.11-12.40.15:928][805]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2021.01.11-12.41.08:007][897]Cmd: TRANSACTION UNDO
+[2021.01.11-12.41.08:007][897]LogEditorTransaction: Undo Move World Outliner Items
+[2021.01.11-12.41.11:699][ 92]Cmd: TRANSACTION UNDO
+[2021.01.11-12.41.11:699][ 92]LogEditorTransaction: Undo Pinchar en los actores
+[2021.01.11-12.41.12:286][111]Cmd: TRANSACTION UNDO
+[2021.01.11-12.41.12:286][111]LogEditorTransaction: Undo Pinchar en los actores
+[2021.01.11-12.41.12:614][130]Cmd: TRANSACTION UNDO
+[2021.01.11-12.41.12:615][130]LogEditorTransaction: Undo Pinchar en los actores
+[2021.01.11-12.41.12:935][149]Cmd: TRANSACTION UNDO
+[2021.01.11-12.41.12:935][149]LogEditorTransaction: Undo Pinchar en los actores
+[2021.01.11-12.41.13:232][165]Cmd: TRANSACTION UNDO
+[2021.01.11-12.41.13:232][165]LogEditorTransaction: Undo Pinchar en los actores
+[2021.01.11-12.41.13:521][182]Cmd: TRANSACTION UNDO
+[2021.01.11-12.41.13:521][182]LogEditorTransaction: Undo Pinchar en los actores
+[2021.01.11-12.41.13:891][204]Cmd: TRANSACTION UNDO
+[2021.01.11-12.41.13:891][204]LogEditorTransaction: Undo Pinchar en los actores
+[2021.01.11-12.41.14:149][219]Cmd: TRANSACTION UNDO
+[2021.01.11-12.41.14:149][219]LogEditorTransaction: Undo Pinchar en los actores
+[2021.01.11-12.41.14:367][230]Cmd: TRANSACTION UNDO
+[2021.01.11-12.41.14:367][230]LogEditorTransaction: Undo Pinchar en los actores
+[2021.01.11-12.41.14:569][242]Cmd: TRANSACTION UNDO
+[2021.01.11-12.41.14:569][242]LogEditorTransaction: Undo Cambiar el nombre de la carpeta
+[2021.01.11-12.41.14:776][254]Cmd: TRANSACTION UNDO
+[2021.01.11-12.41.14:777][254]LogEditorTransaction: Undo Crear Carpeta
+[2021.01.11-12.41.17:149][396]Cmd: TRANSACTION REDO
+[2021.01.11-12.41.17:149][396]LogEditorTransaction: Redo Crear Carpeta
+[2021.01.11-12.41.19:463][534]Cmd: TRANSACTION UNDO
+[2021.01.11-12.41.19:463][534]LogEditorTransaction: Undo Crear Carpeta
+[2021.01.11-12.42.12:073][659]EditorErrors: New page: Actor attachment
+[2021.01.11-12.42.13:915][766]Cmd: TRANSACTION UNDO
+[2021.01.11-12.42.13:915][766]LogEditorTransaction: Undo Pinchar en los actores
+[2021.01.11-12.42.14:545][782]Cmd: TRANSACTION UNDO
+[2021.01.11-12.42.14:545][782]LogEditorTransaction: Undo Attach actors
+[2021.01.11-12.42.21:311][176]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2021.01.11-12.42.21:381][180]LogEditorViewport: Clicking on Component (LMB): SceneComponent (DefaultSceneRoot)
+[2021.01.11-12.42.21:841][207]LogEditorViewport: Clicking on Component (LMB): SceneComponent (DefaultSceneRoot)
+[2021.01.11-12.42.21:910][211]LogEditorViewport: Clicking on Actor (double click): Actor (Actor)
+[2021.01.11-12.42.22:234][230]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2021.01.11-12.42.22:839][266]LogSlate: Took 0.001879 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.11-12.42.24:743][377]LogEditorViewport: Clicking on Actor (context menu): Actor (Actor)
+[2021.01.11-12.42.27:224][517]Cmd: CAMERA SNAP
+[2021.01.11-12.42.27:224][517]Snapped camera to the first selected object.
+[2021.01.11-12.42.28:872][616]Cmd: TRANSACTION UNDO
+[2021.01.11-12.42.28:872][616]LogEditorTransaction: Undo Pinchar en los actores (doble clic)
+[2021.01.11-12.42.30:154][676]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (CubeMesh)
+[2021.01.11-12.42.37:290][ 85]Cmd: TRANSACTION UNDO
+[2021.01.11-12.42.37:290][ 85]LogEditorTransaction: Undo Snap Object to View
+[2021.01.11-12.42.37:542][ 93]Cmd: TRANSACTION UNDO
+[2021.01.11-12.42.37:542][ 93]LogEditorTransaction: Undo Pinchar en los actores (menú contextual)
+[2021.01.11-12.42.37:942][108]Cmd: TRANSACTION UNDO
+[2021.01.11-12.42.37:942][108]LogEditorTransaction: Undo Clicking on Components
+[2021.01.11-12.42.44:847][522]LogEditorViewport: Clicking on Actor (context menu): Actor (Actor)
+[2021.01.11-12.43.20:099][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.11-12.43.32:167][268]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Geometry/Meshes/TemplateFloor.TemplateFloor
+[2021.01.11-12.43.38:800][586]LogSlate: Window 'TemplateFloor' being destroyed
+[2021.01.11-12.43.38:813][586]LogSlate: Window 'TemplateFloor' being destroyed
+[2021.01.11-12.43.38:818][586]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.01.11-12.43.38:818][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.11-12.43.46:544][ 32]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2021.01.11-12.44.14:645][709]LogSlate: Window 'Plugins' being destroyed
+[2021.01.11-12.44.14:650][709]LogSlate: Window 'Plugins' being destroyed
+[2021.01.11-12.44.14:651][709]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2021.01.11-12.46.32:920][266]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2021.01.11-12.46.32:943][266]LogSavePackage: Moving '../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Saved/ThirdPersonExampleMap_Auto155D4EB9D49D53894A69A9DA69CCEC5AA.tmp' to '../../../../../../Adrian/Estudios/Universidad/Tercero/Ingenieria Videojuegos/Practica/PRACTICA_IV_2020/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2021.01.11-12.46.32:944][266]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.096
+[2021.01.11-12.46.32:944][266]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.096
+[2021.01.11-12.46.48:308][ 71]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2021.01.11-12.46.58:377][641]LogSlate: Window 'Sphere' being destroyed
+[2021.01.11-12.46.58:393][641]LogSlate: Window 'Sphere' being destroyed
+[2021.01.11-12.46.58:395][641]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.01.11-12.46.58:395][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.11-12.47.03:872][962]Cmd: DELETE
+[2021.01.11-12.47.03:872][962]Cmd: ACTOR DELETE
+[2021.01.11-12.47.03:873][962]LogEditorActor: Deleted 1 Components (0.001 secs)
+[2021.01.11-12.47.05:605][ 66]Cmd: DELETE
+[2021.01.11-12.47.05:605][ 66]Cmd: ACTOR DELETE
+[2021.01.11-12.47.05:609][ 66]LogEditorActor: Deleted 1 Components (0.004 secs)
+[2021.01.11-12.47.06:439][116]Cmd: DELETE
+[2021.01.11-12.47.06:439][116]Cmd: ACTOR DELETE
+[2021.01.11-12.47.06:440][116]LogEditorActor: Deleted 1 Components (0.001 secs)
+[2021.01.11-12.47.12:055][431]Cmd: DELETE
+[2021.01.11-12.47.12:055][431]Cmd: ACTOR DELETE
+[2021.01.11-12.47.12:057][431]LogEditorActor: Deleted Actor: Actor
+[2021.01.11-12.47.12:111][431]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2021.01.11-12.47.12:116][431]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2021.01.11-12.49.58:103][ 22]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.01.11-12.49.59:211][ 22]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.108 s
+[2021.01.11-12.49.59:212][ 22]LogOutputDevice: Error: === Handled ensure: ===
+[2021.01.11-12.49.59:212][ 22]LogOutputDevice: Error: 
+[2021.01.11-12.49.59:212][ 22]LogOutputDevice: Error: Ensure condition failed: PlacementEditMode [File:D:/Build/++UE4/Sync/Engine/Source/Editor/PlacementMode/Private/SPlacementModeTools.cpp] [Line: 611]
+[2021.01.11-12.49.59:212][ 22]LogOutputDevice: Error: PlacementEditMode was null, but SPlacementModeTools is still accepting KeyDown events
+[2021.01.11-12.49.59:212][ 22]LogOutputDevice: Error: Stack: 
+[2021.01.11-12.49.59:212][ 22]LogOutputDevice: Error: [Callstack] 0x00007ffcecb17559 UE4Editor-PlacementMode.dll!UnknownFunction []
+[2021.01.11-12.49.59:212][ 22]LogOutputDevice: Error: [Callstack] 0x00007ffcecaf1a35 UE4Editor-PlacementMode.dll!UnknownFunction []
+[2021.01.11-12.49.59:212][ 22]LogOutputDevice: Error: [Callstack] 0x00007ffd1d2725b2 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.11-12.49.59:212][ 22]LogOutputDevice: Error: [Callstack] 0x00007ffd1d2de399 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.11-12.49.59:212][ 22]LogOutputDevice: Error: [Callstack] 0x00007ffd1d2d2236 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.11-12.49.59:212][ 22]LogOutputDevice: Error: [Callstack] 0x00007ffd22b9b948 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.11-12.49.59:212][ 22]LogOutputDevice: Error: [Callstack] 0x00007ffd22b89197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.11-12.49.59:212][ 22]LogOutputDevice: Error: [Callstack] 0x00007ffd22b9e379 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.11-12.49.59:212][ 22]LogOutputDevice: Error: [Callstack] 0x00007ffd22b84310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.11-12.49.59:212][ 22]LogOutputDevice: Error: [Callstack] 0x00007ffd8e95e858 USER32.dll!UnknownFunction []
+[2021.01.11-12.49.59:212][ 22]LogOutputDevice: Error: [Callstack] 0x00007ffd8e95e299 USER32.dll!UnknownFunction []
+[2021.01.11-12.49.59:212][ 22]LogOutputDevice: Error: [Callstack] 0x00007ffd22b9f904 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.11-12.49.59:212][ 22]LogOutputDevice: Error: [Callstack] 0x00007ff73fe687e7 UE4Editor.exe!UnknownFunction []
+[2021.01.11-12.49.59:212][ 22]LogOutputDevice: Error: [Callstack] 0x00007ff73fe8113c UE4Editor.exe!UnknownFunction []
+[2021.01.11-12.49.59:212][ 22]LogOutputDevice: Error: [Callstack] 0x00007ff73fe8121a UE4Editor.exe!UnknownFunction []
+[2021.01.11-12.49.59:212][ 22]LogOutputDevice: Error: [Callstack] 0x00007ff73fe9527d UE4Editor.exe!UnknownFunction []
+[2021.01.11-12.49.59:212][ 22]LogOutputDevice: Error: [Callstack] 0x00007ff73fe97faa UE4Editor.exe!UnknownFunction []
+[2021.01.11-12.49.59:212][ 22]LogOutputDevice: Error: [Callstack] 0x00007ffd8ebb7034 KERNEL32.DLL!UnknownFunction []
+[2021.01.11-12.49.59:212][ 22]LogOutputDevice: Error: [Callstack] 0x00007ffd8fe3d0d1 ntdll.dll!UnknownFunction []
+[2021.01.11-12.49.59:212][ 22]LogOutputDevice: Error: 
